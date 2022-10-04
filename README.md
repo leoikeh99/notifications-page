@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/notifications-page-html-css-2l3vRp-f4i](https://your-solution-url.com)
+- Live Site URL: [https://silver-crostata-e95a56.netlify.app/](https://your-live-site-url.com)
 
 ### Built with
 
